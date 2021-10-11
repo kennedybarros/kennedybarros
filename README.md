@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/kennedybarros/kennedybarros/blob/main/image/illustration.jpeg" width="300"/>
+<img align="right" src="https://github.com/kennedybarros/kennedybarros/blob/main/image/illustration.png" width="300"/>
 
 ### Hello, I'm Kennedy 👋
 
