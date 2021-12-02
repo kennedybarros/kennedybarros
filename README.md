@@ -42,4 +42,4 @@ I've been fascinated by computing since I was a kid and I'm currently dedicated 
 ## My data on Github 🐙
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedybarros&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedybarros&layout=compact&theme=dark)
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kennedybarros/kennedybarros/blob/output/github-contribution-grid-snake.svg)
