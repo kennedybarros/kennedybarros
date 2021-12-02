@@ -37,7 +37,7 @@ I've been fascinated by computing since I was a kid and I'm currently dedicated 
 
 - I'm studying Computer Science. 💻
 
-## My Linktree [:link:](https://linktr.ee/kennedybarros)
+## My Beacons [:link:](https://beacons.ai/kennedybarros)
 
 ## My data on Github 🐙
 <div align="center">
