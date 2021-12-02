@@ -40,6 +40,9 @@ I've been fascinated by computing since I was a kid and I'm currently dedicated 
 ## My Linktree [:link:](https://linktr.ee/kennedybarros)
 
 ## My data on Github 🐙
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedybarros&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedybarros&layout=compact&theme=dark)
-![Snake animation](https://github.com/kennedybarros/kennedybarros/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <a href="https://github.com/kennedybarros">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kennedybarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedybarros&layout=compact&langs_count=7&theme=dark"/>
+</div>
+ ![Snake animation](https://github.com/kennedybarros/kennedybarros/blob/output/github-contribution-grid-snake.svg)
