@@ -26,10 +26,7 @@ I've been fascinated by computing since I was a kid and I'm currently dedicated 
   - HTML
   - CSS
   - JavaScript
-  - TypeScript
-  - ReactJS
-  - MongoDB
-  - MySQL
+
 
 ## Some facts about me 👨🏻‍💻
 
