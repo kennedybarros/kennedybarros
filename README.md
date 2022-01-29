@@ -43,5 +43,4 @@ I've been fascinated by computing since I was a kid and I'm currently dedicated 
 </div>
  
  
- 
  ![Snake animation](https://github.com/kennedybarros/kennedybarros/blob/output/github-contribution-grid-snake.svg)
