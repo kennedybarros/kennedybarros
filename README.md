@@ -42,5 +42,6 @@ I've been fascinated by computing since I was a kid and I'm currently dedicated 
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedybarros&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
- 
+ <hr>
+
  ![Snake animation](https://github.com/kennedybarros/kennedybarros/blob/output/github-contribution-grid-snake.svg)
