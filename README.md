@@ -14,13 +14,13 @@
 
 <h3 align="center">  <br>
 
-Hi, I'm Kennedy! 🇧🇷
+Hi, I'm Kennedy Barros! 🇧🇷
 <br>
 
 </h3>
 
 ```
-Computer Science Student at Estácio - University Center - P. Figueiredo,
+Computer Science Student at Estácio - University Center - President Figueiredo - AM,
 I've been fascinated by computing since I was a kid and I'm currently dedicated to becoming a front-end developer.
 ```
 ## Technologies I am currently studying 💻
@@ -32,9 +32,15 @@ I've been fascinated by computing since I was a kid and I'm currently dedicated 
 
 ## Some facts about me 👨🏻‍💻
 
-- I love to know new things, work in groups and get new experiences, I aim to work outside Brazil, to improve my English and meet new cultures, people and have new experiences. 😄
+-  I’m currently learning Front end and UI Design! 🌳
 
-- I'm studying Computer Science. 💻
+- My goal is to become a developer capable of solving real problems. 📈
+
+- Always looking to be better than the day before, have continuous growth and impact people's lives. ❤️
+
+- I chose development because it's amazing, the amount of things that can be created and the impact it can have on people's lives makes me excited. 🖱
+
+- I love to know new things, work in groups and get new experiences, I aim to work outside Brazil, to improve my English and meet new cultures, people and have new experiences. 😄
 
 
 ## My data on Github 🐙
