@@ -8,5 +8,5 @@ I solve complex problems by crafting and creating digital products and web exper
 
 **Link with me on:**<br>
 [LinkedIn](https://www.linkedin.com/in/kennedybarros)<br/>
-[Dribbble](https://dribbble.com/kennedybarros)
+[Dribbble](https://dribbble.com/kennedybarros)<br/>
 [Behance](https://www.behance.net/kennedybarros)<br/>
